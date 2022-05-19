@@ -210,6 +210,19 @@ y compruebe que está instalado:
 $ git --version
 ```
 
+Si nunca ha usado Git, tal vez le interese conocer los
+[conceptos básicos](https://docs.github.com/es/get-started/using-git/about-git)
+de la herramienta.
+Si quiere un tutorial rápido sobre los principales comandos que necesitará, 
+[esta](https://www.linux.com/topic/desktop/introduction-using-git/)
+puede ser una buena referencia para comenzar.
+Hay mucha más documentación sobre Git en línea:
+* [GitHub Guides](https://docs.github.com/es)
+* [Cheat Sheet for Common Operations](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+* [Command Reference](https://git-scm.com/docs)
+* [Online Simulator/Tutorial](https://learngitbranching.js.org/?locale=es_ES)
+Con posterioridad a esta práctica, revise esta documentación.
+
 13. Consiga que se pueda subir código desde su máquina virtual hacia su cuenta GitHub sin necesidad de autentificación. 
 Consulte para ello las instrucciones
 [Adding a new SSH key to your GitHub account](https://docs.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account)
